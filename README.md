@@ -139,14 +139,5 @@ Author
 
 Vinayak Kokare  
 B.Sc. Computer Science  
-Karmaveer Bhaurao Patil College, Vashi
 
 ---
-
-Future Improvements
-
-- Online ration tracking
-- SMS notifications
-- Cloud database integration
-- Admin analytics dashboard
-- Barcode/QR integration
