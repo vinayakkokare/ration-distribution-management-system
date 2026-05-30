@@ -138,6 +138,6 @@ Learning Outcomes
 Author
 
 Vinayak Kokare  
-B.Sc. Computer Science  
+Software Developer 
 
 ---
